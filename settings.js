@@ -5,8 +5,8 @@ const settings = {
   botOwner: 'Tristan Muls', // Your name
   ownerNumber: '256743205521', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  commandMode: "private",
+  description: "🎭💀IF SHE AIN'T MINE 🕹️SHE AIN'T FINE ❌ 🎯",
   version: "1.0.0",
 };
 
